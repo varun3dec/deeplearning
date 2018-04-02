@@ -6,4 +6,8 @@ Deep Belief Networks
 
 RNN
 
-Restricted Boltzmann Machine1
+
+Restricted Boltzmann Machine2
+
+
+
